@@ -1,2 +1,4 @@
-stiefelpol.egg-info
+# Except for the .gitignore file itself
+#!.gitignore
+*.stiefelpol.egg-info
 __pycache__
