@@ -1,0 +1,11 @@
+README.md
+setup.py
+stiefelpol/__init__.py
+stiefelpol/stiefelPol.py
+stiefelpol.egg-info/PKG-INFO
+stiefelpol.egg-info/SOURCES.txt
+stiefelpol.egg-info/dependency_links.txt
+stiefelpol.egg-info/requires.txt
+stiefelpol.egg-info/top_level.txt
+stiefelpol/utils/__init__.py
+stiefelpol/utils/utils.py
