@@ -2,7 +2,7 @@
 
 ### Overview ###
 
-This is an implementation of the ideas exposed in the article [Stiefel Manifolds and Polygons](https://arxiv.org/abs/1902.01486) (SMP) published by Clayton Shonkwiller in 2019. The goal is to describe an identification of polygons with points in $\text{St}_k(\mathbb R^2)$. With that identification in hand, in this project we will:
+This is an implementation of the ideas exposed in the article [Stiefel Manifolds and Polygons](https://arxiv.org/abs/1902.01486) (SMP) published by Clayton Shonkwiller in 2019. The goal is to describe an identification of polygons with points in $\text{St}_2(\mathbb R^k)$. With that identification in hand, in this project we will:
 
 - Use the tools in SMP to define what a random polygon is 
 - Generate random polygons
